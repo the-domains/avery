@@ -1,0 +1,28 @@
+name: Avery Miller
+favicon: null
+layout_spectrum: 0.24857422104105353
+typography_spectrum: 0.0457956453319639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8196931730490178
+  lightness: 0.15129965101368725
+  saturation: 0.7670563859865069
+  rhythmicContrast: 0.23843141947872937
+purpose: []
