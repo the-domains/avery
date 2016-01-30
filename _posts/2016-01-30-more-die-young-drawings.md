@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:05:54.073Z'
-dateModified: '2016-01-30T21:05:51.223Z'
+datePublished: '2016-01-30T21:07:53.184Z'
+dateModified: '2016-01-30T21:07:52.004Z'
 title: More Die Young Drawings
 author: []
 sourcePath: _posts/2016-01-30-more-die-young-drawings.md
@@ -22,7 +22,7 @@ url: more-die-young-drawings/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84d09838aa6172e399c592d9b80c4febc6ef24e3.jpg)
+![JayJay from that Die Young Animation](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84d09838aa6172e399c592d9b80c4febc6ef24e3.jpg)
 
 Here's a drawing I just finished making! I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2818de8622b7ad3a0a823b9f4639ca7b8a4a6279.gif)
