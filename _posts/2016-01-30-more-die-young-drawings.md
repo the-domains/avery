@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T00:58:13.141Z'
-dateModified: '2016-01-31T00:58:08.441Z'
+datePublished: '2016-01-31T01:45:49.944Z'
+dateModified: '2016-01-31T01:45:47.525Z'
 title: More Die Young Drawings
 author: []
 sourcePath: _posts/2016-01-30-more-die-young-drawings.md
@@ -29,4 +29,5 @@ Here's a drawing I just finished making! I thought I'd practice my animation ski
 
 After finishing the latest Game Glitch episode, I thought I'd try to finalize the animation by going back and outlining the sketch... And after a few hours, I have just one frame.
 
-But hey, that's pretty good.
+But hey, that's pretty good. (Plus, it counter acts the two drawings of iDubbbz and JonTron I did.)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfce8c13-512c-432f-9438-56e76e65f06a.png)
