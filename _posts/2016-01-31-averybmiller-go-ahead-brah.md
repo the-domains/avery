@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://twitter.com/LivingTombstone/status/693919289355669505'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - location
   - twitter
@@ -16,9 +15,9 @@ keywords:
   - copying
   - sorta
   - hiccup
-description: '@averybmiller Go ahead brah!'
-datePublished: '2016-01-31T22:23:40.970Z'
-dateModified: '2016-01-31T22:23:30.801Z'
+description: ''
+datePublished: '2016-01-31T22:35:07.713Z'
+dateModified: '2016-01-31T22:34:56.569Z'
 author:
   - name: livingtombstone
     url: 'http://twitter.com/livingtombstone'
@@ -38,7 +37,7 @@ author:
           - 16
 related: []
 app_links: []
-title: ''
+title: '@averybmiller Go ahead brah!'
 authors: []
 publisher:
   name: Twitter
@@ -47,10 +46,17 @@ publisher:
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 sourcePath: _posts/2016-01-31-averybmiller-go-ahead-brah.md
 published: true
+url: averybmiller-go-ahead-brah/index.html
 _type: Comment
 _context: 'http://schema.org'
 
 ---
 Heck ya! Well, here's your sneak-peak into the next episode of Game Glitch!
 
+> [@livingtombstone][0] Mind if I use some audio clips from the Squid Melody in an upcoming video? I'm thinking about doing a remix sorta thing!
+
 > @averybmiller Go ahead brah!
+
+
+
+[0]: https://twitter.com/LivingTombstone
