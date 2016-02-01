@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:32:47.323Z'
-dateModified: '2016-02-01T20:32:43.162Z'
+datePublished: '2016-02-01T20:35:43.179Z'
+dateModified: '2016-02-01T20:35:39.073Z'
 title: Some older drawings
 author: []
 sourcePath: _posts/2016-02-01-some-older-drawings.md
