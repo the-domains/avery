@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:31:41.671Z'
+datePublished: '2016-02-01T20:31:41.639Z'
 dateModified: '2016-02-01T20:31:39.099Z'
 title: More Die Young Drawings
 author: []
