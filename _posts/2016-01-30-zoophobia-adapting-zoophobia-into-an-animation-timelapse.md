@@ -14,7 +14,7 @@ description: "Today, I rotoscope (or whatever you want to call it) Vivziepop's e
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xOaXGJmwN48'
 title: Zoophobia - Adapting Zoophobia into an Animation (Timelapse)
-datePublished: '2016-02-01T20:59:36.661Z'
+datePublished: '2016-02-01T20:59:36.670Z'
 dateModified: '2016-01-30T22:15:59.674Z'
 sourcePath: _posts/2016-01-30-zoophobia-adapting-zoophobia-into-an-animation-timelapse.md
 published: true
