@@ -35,7 +35,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3f1VIuBjN5Q'
 title: Spore - Game Glitch
-datePublished: '2016-02-01T20:59:24.873Z'
+datePublished: '2016-02-01T20:59:24.891Z'
 dateModified: '2016-02-01T12:28:11.770Z'
 sourcePath: _posts/2016-01-30-spore-game-glitch.md
 published: true
