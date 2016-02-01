@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-01T21:03:54.437Z'
-dateModified: '2016-02-01T21:03:50.557Z'
+description: "As previously mentioned, when AveryMiller.org was transferred over to TheGrid.io, all the most recent posts I had made were not transferred over. So, here's some of the more recently Zoophobia..."
+datePublished: '2016-02-01T21:08:45.457Z'
+dateModified: '2016-02-01T21:08:41.503Z'
 title: Some Old Photoshopping
 author: []
 sourcePath: _posts/2016-02-01-some-old-photoshopping.md
