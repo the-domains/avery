@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:58:56.509Z'
+datePublished: '2016-02-01T20:58:56.532Z'
 dateModified: '2016-02-01T20:58:51.638Z'
 title: 'AveryMiller.org now has a new Look!'
 author: []
