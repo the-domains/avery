@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - glitches
   - duration
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3f1VIuBjN5Q'
 title: Spore - Game Glitch
-datePublished: '2016-01-30T19:08:44.429Z'
-dateModified: '2016-01-30T19:08:34.878Z'
+datePublished: '2016-02-01T20:59:24.766Z'
+dateModified: '2016-02-01T12:28:11.770Z'
 sourcePath: _posts/2016-01-30-spore-game-glitch.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
