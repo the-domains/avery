@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:35:43.308Z'
-dateModified: '2016-02-01T20:35:39.073Z'
+datePublished: '2016-02-01T20:39:19.453Z'
+dateModified: '2016-02-01T20:39:17.065Z'
 title: Some older drawings
 author: []
 sourcePath: _posts/2016-02-01-some-older-drawings.md
@@ -22,6 +22,7 @@ url: some-older-drawings/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e83eecb99dc6a9f4e1476443771aeef3012f58cb.jpg)
+
 I figured I mind as well re-post stuff from the old version of AveryMiller.org , so here's two drawings of iDubbbz and JonTron I made a few weeks ago.
 ![It's JonTron!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/957a68872498a7d5c44feb3ca5453df73c106205.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e83eecb99dc6a9f4e1476443771aeef3012f58cb.jpg)
