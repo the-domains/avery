@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: "Today, I rotoscope (or whatever you want to call it) Vivziepop's epic Zoophobia comic. (The next episode of Game Glitch is set to be published on Christmas day. Look forward to it!) I'm just excited to help bring all these great characters to life!"
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xOaXGJmwN48'
 title: Zoophobia - Adapting Zoophobia into an Animation (Timelapse)
-datePublished: '2016-01-30T19:09:13.473Z'
-dateModified: '2016-01-30T19:08:56.743Z'
+datePublished: '2016-02-01T20:59:36.570Z'
+dateModified: '2016-01-30T22:15:59.674Z'
 sourcePath: _posts/2016-01-30-zoophobia-adapting-zoophobia-into-an-animation-timelapse.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
