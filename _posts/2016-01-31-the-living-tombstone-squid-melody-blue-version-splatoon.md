@@ -16,7 +16,7 @@ keywords:
   - melody
   - bit
 description: "Kid, Squid, it doesn't matter. This is the all new Living Tombstone Splatoon track! ➢ Subscribe for more!"
-datePublished: '2016-02-02T00:31:30.785Z'
+datePublished: '2016-02-02T00:31:30.908Z'
 dateModified: '2016-02-02T00:31:26.532Z'
 author:
   - name: The Living Tombstone
