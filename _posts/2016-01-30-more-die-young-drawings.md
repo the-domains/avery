@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here's a drawing I just finished making!"
-datePublished: '2016-02-02T00:31:10.269Z'
+datePublished: '2016-02-02T00:31:10.213Z'
 dateModified: '2016-02-02T00:30:39.315Z'
 title: More Die Young Drawings
 author: []
