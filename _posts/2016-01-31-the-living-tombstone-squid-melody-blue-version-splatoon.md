@@ -16,8 +16,8 @@ keywords:
   - melody
   - bit
 description: "Kid, Squid, it doesn't matter. This is the all new Living Tombstone Splatoon track! ➢ Subscribe for more!"
-datePublished: '2016-01-31T00:20:56.883Z'
-dateModified: '2016-01-31T00:20:42.119Z'
+datePublished: '2016-02-02T00:31:30.785Z'
+dateModified: '2016-02-02T00:31:26.532Z'
 author:
   - name: The Living Tombstone
     url: 'https://www.youtube.com/user/TheLivingTombstone'
@@ -35,14 +35,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=Rmea5ET_n9g&feature=applinks'
     type: web
 title: 'The Living Tombstone - Squid Melody [Blue Version] (Splatoon Original Track)'
+sourcePath: _posts/2016-01-31-the-living-tombstone-squid-melody-blue-version-splatoon.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-31-the-living-tombstone-squid-melody-blue-version-splatoon.md
-published: true
 url: the-living-tombstone-squid-melody-blue-version-splatoon/index.html
 _type: VideoObject
 _context: 'http://schema.org'
