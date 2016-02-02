@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 23:52:13 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Just a Quick Little Reminder...]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Mon, 01 Feb 2016 20:57:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[IN YOUR FACE, CANCER!]]></title>
+            <description><![CDATA[<article><h1>IN YOUR FACE, CANCER!</h1><p>Just got the call that I do not need to start chemo therapy. IN YOUR FACE, CANCER!</p></article>]]></description>
+            <link>http://www.averymiller.org/in-your-face-cancer/index.html</link>
+            <guid isPermaLink="false">8fd8e1a0-7851-4f0b-a0a6-4bb58e725388</guid>
+            <pubDate>Tue, 02 Feb 2016 23:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[It's the first time I've given out Reddit gold!]]></title>
-            <description><![CDATA[<article><h1>It's the first time I've given out Reddit gold!</h1><p>It's the first time I've given out Reddit gold! I think it's pretty cool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f834ae7e89425dedeaf8f7ae47aa14de62131b2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>It's the first time I've given out Reddit gold!</h1><p>It's the first time I've given out Reddit gold! I think it's pretty cool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bdb18e482b1234b9b95c12650077f8e719d5844.png"></article>]]></description>
             <link>http://www.averymiller.org/its-the-first-time-ive-given-out-reddit-gold/index.html</link>
             <guid isPermaLink="false">a746a6bf-f94a-4156-9905-b8a8772a1f1f</guid>
             <pubDate>Tue, 02 Feb 2016 20:46:12 GMT</pubDate>
@@ -61,13 +68,6 @@
             <link>http://www.averymiller.org/averybmiller-go-ahead-brah/index.html</link>
             <guid isPermaLink="false">8571629a-cac3-4ae9-88db-a57055c1df9c</guid>
             <pubDate>Sun, 31 Jan 2016 22:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is a Great Commercial]]></title>
-            <description><![CDATA[<article><h1>This is a Great Commercial</h1><p>A wise man once said, "Is there a limit to how much living I can live with my life?"...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3daed8f447d0da8741be70a8b18068173c26abd0.jpg"></article>]]></description>
-            <link>http://www.averymiller.org/397099ca-d4cd-4677-80e3-7bf82bf8716c/index.html</link>
-            <guid isPermaLink="false">397099ca-d4cd-4677-80e3-7bf82bf8716c</guid>
-            <pubDate>Mon, 01 Feb 2016 20:59:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
