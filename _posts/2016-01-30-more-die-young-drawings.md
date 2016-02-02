@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Here's a drawing I just finished making!"
-datePublished: '2016-02-02T00:14:51.821Z'
-dateModified: '2016-02-02T00:14:47.961Z'
+datePublished: '2016-02-02T00:31:10.269Z'
+dateModified: '2016-02-02T00:30:39.315Z'
 title: More Die Young Drawings
 author: []
 sourcePath: _posts/2016-01-30-more-die-young-drawings.md
