@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Here's a drawing I just finished making!"
-datePublished: '2016-02-01T23:57:10.963Z'
-dateModified: '2016-02-01T23:25:55.954Z'
+datePublished: '2016-02-02T00:03:27.063Z'
+dateModified: '2016-02-02T00:03:21.387Z'
 title: More Die Young Drawings
 author: []
 sourcePath: _posts/2016-01-30-more-die-young-drawings.md
@@ -22,7 +22,9 @@ url: more-die-young-drawings/index.html
 _type: Article
 
 ---
-Here's a drawing I just finished making! I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just [hit 7 Million views][0], by the way!)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90f1ecd8-f54e-462e-b535-b490bfdcd55e.jpg)
+
+Below is a drawing I just finished making! I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just [hit 7 Million views][0], by the way!)
 ![JayJay from that Die Young Animation](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32d46321d0d158e5d8d8724e26dbe5b18b635d79.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2818de8622b7ad3a0a823b9f4639ca7b8a4a6279.gif)
 
