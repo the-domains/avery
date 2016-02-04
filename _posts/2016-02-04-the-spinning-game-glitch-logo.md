@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T23:49:04.654Z'
+datePublished: '2016-02-04T23:49:04.716Z'
 dateModified: '2016-02-04T23:49:01.570Z'
 title: The Spinning Game Glitch Logo
 author: []
