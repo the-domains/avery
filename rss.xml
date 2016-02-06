@@ -4,11 +4,11 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 23:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 17:22:22 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Spinning Game Glitch Logo]]></title>
-            <description><![CDATA[<article><h1>The Spinning Game Glitch Logo</h1><p>I'm experimenting around with some 3D graphics for the next Game Glitch episode, and here's a draft render. Pretty cool looking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95cb78528d979bdb142dc70821624d24f4a959e6.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>The Spinning Game Glitch Logo</h1><p>I'm experimenting around with some 3D graphics for the next Game Glitch episode, and here's a draft render. Pretty cool looking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef87f8cf4c2bc8210f8e05ecf13bc93e70678f61.gif"></article>]]></description>
             <link>http://www.averymiller.org/the-spinning-game-glitch-logo/index.html</link>
             <guid isPermaLink="false">c7e25eff-8f74-412a-8f3d-e8628387638a</guid>
             <pubDate>Thu, 04 Feb 2016 23:49:04 GMT</pubDate>
@@ -33,6 +33,13 @@
             <link>http://www.averymiller.org/some-older-drawings/index.html</link>
             <guid isPermaLink="false">84fc589d-ec02-4aed-9b71-5b8283bd5d53</guid>
             <pubDate>Mon, 01 Feb 2016 20:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super Mario Bros. World ©-1]]></title>
+            <description><![CDATA[<article><h1>Super Mario Bros. World ©-1</h1><p>I've been playing though all 256 possible glitch-levels in the original Super Mario Bros. game for the next Game Glitch episode. I actually came across world ©-1. That's right, it's world copyright symbol. Ironically, I died after playing the level for only a few seconds. That's several seconds longer than most people survive in the copyright world.</p></article>]]></description>
+            <link>http://www.averymiller.org/super-mario-bros-world-c-1/index.html</link>
+            <guid isPermaLink="false">53570484-241c-4834-91e6-0d55b021537b</guid>
+            <pubDate>Sat, 06 Feb 2016 17:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IN YOUR FACE, CANCER!]]></title>
@@ -61,13 +68,6 @@
             <link>http://www.averymiller.org/more-die-young-drawings/index.html</link>
             <guid isPermaLink="false">b91aca30-3f9d-461f-9355-47b95451659b</guid>
             <pubDate>Tue, 02 Feb 2016 00:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some Old Zoophobia Photoshopping]]></title>
-            <description><![CDATA[<article><h1>Some Old Zoophobia Photoshopping</h1><p>As previously mentioned, when AveryMiller.org was transferred over to TheGrid.io, all the most recent posts I had made were not transferred over. So, here's some of the more recently Zoophobia panels I photoshopped.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52d7dce4e44abb777dba22550c4b8a8e286fb616.gif"></article>]]></description>
-            <link>http://www.averymiller.org/3d23f9a6-3a3e-4241-a2e6-c09fe2310934/index.html</link>
-            <guid isPermaLink="false">3d23f9a6-3a3e-4241-a2e6-c09fe2310934</guid>
-            <pubDate>Tue, 02 Feb 2016 00:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
