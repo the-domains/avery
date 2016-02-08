@@ -4,8 +4,15 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 02:40:39 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peep and the Big Wide World]]></title>
+            <description><![CDATA[<article><h1>Peep and the Big Wide World</h1><p>I was reminiscing about one of the first shows I ever watched, Peep and The Big Wide World (which is one of the greatest shows in all of history), and I found the original Film from 1962!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06a4f05814122251fc70cd2e73188c1ebc47ec3c.jpg"></article>]]></description>
+            <link>http://www.averymiller.org/peep-and-the-big-wide-world/index.html</link>
+            <guid isPermaLink="false">49a4b276-3a5f-4a05-aa08-832b0d68a67b</guid>
+            <pubDate>Mon, 08 Feb 2016 02:40:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Spinning Game Glitch Logo]]></title>
             <description><![CDATA[<article><h1>The Spinning Game Glitch Logo</h1><p>I'm experimenting around with some 3D graphics for the next Game Glitch episode, and here's a draft render. Pretty cool looking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef87f8cf4c2bc8210f8e05ecf13bc93e70678f61.gif"></article>]]></description>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[More Die Young Drawings]]></title>
-            <description><![CDATA[<article><h1>More Die Young Drawings</h1><p>Below is a drawing I just finished making! (Update: It's Vivziepop approved, by the way!) I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just hit 7 Million views, by the way!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5df95052e4a993f637b8ab9c46302a1689d1179.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>More Die Young Drawings</h1><p>Below is a drawing I just finished making! (Update: It's Vivziepop approved, by the way!) I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just hit 7 Million views, by the way!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0daa702ee45ac4eac0bee806d750179fa5d19e2.jpg"></article>]]></description>
             <link>http://www.averymiller.org/more-die-young-drawings/index.html</link>
             <guid isPermaLink="false">b91aca30-3f9d-461f-9355-47b95451659b</guid>
             <pubDate>Sun, 07 Feb 2016 21:23:38 GMT</pubDate>
@@ -61,13 +68,6 @@
             <link>http://www.averymiller.org/in-your-face-cancer/index.html</link>
             <guid isPermaLink="false">8fd8e1a0-7851-4f0b-a0a6-4bb58e725388</guid>
             <pubDate>Tue, 02 Feb 2016 23:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's the first time I've given out Reddit gold!]]></title>
-            <description><![CDATA[<article><h1>It's the first time I've given out Reddit gold!</h1><p>It's the first time I've given out Reddit gold! I think it's pretty cool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bdb18e482b1234b9b95c12650077f8e719d5844.png"></article>]]></description>
-            <link>http://www.averymiller.org/its-the-first-time-ive-given-out-reddit-gold/index.html</link>
-            <guid isPermaLink="false">a746a6bf-f94a-4156-9905-b8a8772a1f1f</guid>
-            <pubDate>Tue, 02 Feb 2016 20:46:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
