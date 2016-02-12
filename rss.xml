@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 14:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 20:52:43 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Peep and the Big Wide World]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Mon, 01 Feb 2016 20:57:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
+            <description><![CDATA[<article><h1>I Made Some Custom Lens Flares!</h1><p>I thought I'd spend a few minutes making some custom AE lens flare presets. Watch out JJ ABRAMS and @videocopilot! pic.twitter.com/sczBDiMPOE</p></article>]]></description>
+            <link>http://www.averymiller.org/i-made-some-custom-lens-flares/index.html</link>
+            <guid isPermaLink="false">9d5a96a2-78cd-45c0-a2ee-f2ca2d6b4f23</guid>
+            <pubDate>Fri, 12 Feb 2016 20:51:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Look, I drew Pyro]]></title>
-            <description><![CDATA[<article><h1>Look, I drew Pyro</h1><p>Hey, that's pretty good.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f03ff0bcc2ae885be9b479782b6960a3054d73.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Look, I drew Pyro</h1><p>Hey, that's pretty good.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96dacf6737e0fb3c14a6441c07bf4661dc9ac13d.jpg"></article>]]></description>
             <link>http://www.averymiller.org/look-i-drew-pyro/index.html</link>
             <guid isPermaLink="false">be2178c9-c749-415e-a878-ec914c4647db</guid>
             <pubDate>Thu, 11 Feb 2016 14:28:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/super-mario-bros-world-c-1/index.html</link>
             <guid isPermaLink="false">53570484-241c-4834-91e6-0d55b021537b</guid>
             <pubDate>Sat, 06 Feb 2016 17:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IN YOUR FACE, CANCER!]]></title>
-            <description><![CDATA[<article><h1>IN YOUR FACE, CANCER!</h1><p>Just got the call that I do not need to start chemo therapy. IN YOUR FACE, CANCER!</p></article>]]></description>
-            <link>http://www.averymiller.org/in-your-face-cancer/index.html</link>
-            <guid isPermaLink="false">8fd8e1a0-7851-4f0b-a0a6-4bb58e725388</guid>
-            <pubDate>Tue, 02 Feb 2016 23:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
