@@ -4,8 +4,15 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 20:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 01:22:07 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Drew Joe Biden and Shima]]></title>
+            <description><![CDATA[<article><h1>I Drew Joe Biden and Shima</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f5fcd4df48d8256b25698e35e64a46706801e5e.jpg"></article>]]></description>
+            <link>http://www.averymiller.org/i-drew-joe-biden-and-shima/index.html</link>
+            <guid isPermaLink="false">0e189305-aaae-42ba-86d6-4b84be83b40f</guid>
+            <pubDate>Sat, 13 Feb 2016 01:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
             <description><![CDATA[<article><h1>I Made Some Custom Lens Flares!</h1><p>I thought I'd spend a few minutes making some custom AE lens flare presets. Watch out JJ ABRAMS and @videocopilot! pic.twitter.com/sczBDiMPOE</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/in-the-next-episode-of-game-glitch-shut-up-avery/index.html</link>
             <guid isPermaLink="false">2a111203-e0aa-45ca-8a43-28a46196862a</guid>
             <pubDate>Sun, 07 Feb 2016 21:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super Mario Bros. World ©-1]]></title>
-            <description><![CDATA[<article><h1>Super Mario Bros. World ©-1</h1><p>I've been playing though all 256 possible glitch-levels in the original Super Mario Bros. game for the next Game Glitch episode. I actually came across world ©-1. That's right, it's world copyright symbol. Ironically, I died after playing the level for only a few seconds. That's several seconds longer than most people survive in the copyright world.</p></article>]]></description>
-            <link>http://www.averymiller.org/super-mario-bros-world-c-1/index.html</link>
-            <guid isPermaLink="false">53570484-241c-4834-91e6-0d55b021537b</guid>
-            <pubDate>Sat, 06 Feb 2016 17:21:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
