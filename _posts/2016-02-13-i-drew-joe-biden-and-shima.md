@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T02:47:51.188Z'
-dateModified: '2016-02-13T02:47:49.177Z'
+datePublished: '2016-02-13T02:57:57.039Z'
+dateModified: '2016-02-13T02:57:55.413Z'
 title: I Drew Joe Biden and Shima (And Other Stuff)
 author: []
 sourcePath: _posts/2016-02-13-i-drew-joe-biden-and-shima.md
@@ -29,3 +29,6 @@ Because why not, right!?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d085e7b4-111b-4794-a0c3-a1e449170f61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7d87a1b-7fae-4291-81fc-0f18ece331b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f3d4e47-9300-4eb5-81dc-ab64959d3695.jpg)
+
+I also photoshopped this:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50b8350b-96d3-4338-9886-5fae2fc5c21b.png)
