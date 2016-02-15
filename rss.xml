@@ -4,11 +4,11 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 00:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 03:06:59 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vermin Supreme for PREZ!]]></title>
-            <description><![CDATA[<article><h1>Vermin Supreme for PREZ!</h1><p>Vote Vermin 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91b1aa303a549e002f2e7e821a1de5d28e219b22.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Vermin Supreme for PREZ!</h1><p>Vote Vermin 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e94e87fe6cf5528d0678a7e2e3139342380d4255.jpg"></article>]]></description>
             <link>http://www.averymiller.org/vermin-supreme-for-prez/index.html</link>
             <guid isPermaLink="false">da10868f-88cd-4e75-8074-515533b29d32</guid>
             <pubDate>Sun, 14 Feb 2016 00:38:18 GMT</pubDate>
@@ -26,6 +26,13 @@
             <link>http://www.averymiller.org/i-made-some-custom-lens-flares/index.html</link>
             <guid isPermaLink="false">9d5a96a2-78cd-45c0-a2ee-f2ca2d6b4f23</guid>
             <pubDate>Fri, 12 Feb 2016 20:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Library of Babel]]></title>
+            <description><![CDATA[<article><h1>Library of Babel</h1><p>The Library of Babble is insanely awesome. It's a collection of anything and everything that will ever be written. Literally anything you can think of is already in the library.</p></article>]]></description>
+            <link>https://libraryofbabel.info/</link>
+            <guid isPermaLink="false">c5b203c9-f4ea-4313-b605-20545f9e53c7</guid>
+            <pubDate>Mon, 15 Feb 2016 03:05:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peep and the Big Wide World]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/look-i-drew-pyro/index.html</link>
             <guid isPermaLink="false">be2178c9-c749-415e-a878-ec914c4647db</guid>
             <pubDate>Sat, 13 Feb 2016 01:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Die Young Drawings]]></title>
-            <description><![CDATA[<article><h1>More Die Young Drawings</h1><p>Below is a drawing I just finished making! (Update: It's Vivziepop approved, by the way!) I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just hit 7 Million views, by the way!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0daa702ee45ac4eac0bee806d750179fa5d19e2.jpg"></article>]]></description>
-            <link>http://www.averymiller.org/more-die-young-drawings/index.html</link>
-            <guid isPermaLink="false">b91aca30-3f9d-461f-9355-47b95451659b</guid>
-            <pubDate>Sun, 07 Feb 2016 21:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
