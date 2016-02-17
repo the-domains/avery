@@ -4,8 +4,15 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 03:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 22:13:18 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a Great Video by The Nostalgia Critic]]></title>
+            <description><![CDATA[<article><h1>This is a Great Video by The Nostalgia Critic</h1><p>No more staying silent. The time has come to start some dialogue about Fair Use and how it's constantly being trampled on via the YouTube claim and take down system. Please Click the Show More below! Special thanks to the awesome people who appeared in this video. Adam from YourMovieSucks - Subscribe Here!</p></article>]]></description>
+            <link>http://www.averymiller.org/this-is-a-great-video-by-the-nostalgia-critic/index.html</link>
+            <guid isPermaLink="false">78dbd907-6278-45de-8414-5f5054478bc5</guid>
+            <pubDate>Wed, 17 Feb 2016 22:11:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Library of Babble is Awesome.]]></title>
             <description><![CDATA[<article><h1>The Library of Babble is Awesome.</h1><p>The Library of Babble is insanely awesome. It's a collection of anything and everything that will ever be written. Literally anything you can think of is already in the library.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/some-older-drawings/index.html</link>
             <guid isPermaLink="false">84fc589d-ec02-4aed-9b71-5b8283bd5d53</guid>
             <pubDate>Mon, 01 Feb 2016 20:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Look, I drew Pyro]]></title>
-            <description><![CDATA[<article><h1>Look, I drew Pyro</h1><p>Hey, that's pretty good.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1604f62fb9aa557f848123bd65e6635f2e983c66.jpg"></article>]]></description>
-            <link>http://www.averymiller.org/look-i-drew-pyro/index.html</link>
-            <guid isPermaLink="false">be2178c9-c749-415e-a878-ec914c4647db</guid>
-            <pubDate>Sat, 13 Feb 2016 01:24:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
