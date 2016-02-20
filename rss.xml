@@ -4,11 +4,18 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 22:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 20:58:08 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Some JonTron Memes I Made]]></title>
+            <description><![CDATA[<article><h1>Some JonTron Memes I Made</h1><p>I made these two 'memes' (I guess you could call it that) involving JonTron. The final video will be finished soon, but for now you can enjoy this real painting that's real and an incredibly inspirational quote in their full resolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef3f5d03f5da7bb94c9bba036b959f09f1f7f5d.png"></article>]]></description>
+            <link>http://www.averymiller.org/some-jontron-memes-i-made/index.html</link>
+            <guid isPermaLink="false">d340849c-de11-4b27-a9ba-54735e9e0c2c</guid>
+            <pubDate>Sat, 20 Feb 2016 20:57:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This is a Great Video by The Nostalgia Critic]]></title>
-            <description><![CDATA[<article><h1>This is a Great Video by The Nostalgia Critic</h1><p>No more staying silent. The time has come to start some dialogue about Fair Use and how it's constantly being trampled on via the YouTube claim and take down system. Please Click the Show More below! Special thanks to the awesome people who appeared in this video. Adam from YourMovieSucks - Subscribe Here!</p></article>]]></description>
+            <description><![CDATA[<article><h1>This is a Great Video by The Nostalgia Critic</h1><p>This is a great video by the Nostalgia Critic! GO FAIR USE!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347bb01535ebf8fcdd6203069a2c45455fcb2a9.jpg"></article>]]></description>
             <link>http://www.averymiller.org/this-is-a-great-video-by-the-nostalgia-critic/index.html</link>
             <guid isPermaLink="false">78dbd907-6278-45de-8414-5f5054478bc5</guid>
             <pubDate>Wed, 17 Feb 2016 22:11:51 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=3f1VIuBjN5Q</link>
             <guid isPermaLink="false">083ac581-ed56-4261-b51a-c9d9b2227573</guid>
             <pubDate>Mon, 01 Feb 2016 20:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some Older Drawings]]></title>
-            <description><![CDATA[<article><h1>Some Older Drawings</h1><p>I figured I mind as well re-post stuff from the old version of AveryMiller.org , so here's two drawings of iDubbbz and JonTron I made a few weeks ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19878ba2126150932ac60598bbd84a988f972aa6.jpg"></article>]]></description>
-            <link>http://www.averymiller.org/some-older-drawings/index.html</link>
-            <guid isPermaLink="false">84fc589d-ec02-4aed-9b71-5b8283bd5d53</guid>
-            <pubDate>Mon, 01 Feb 2016 20:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
