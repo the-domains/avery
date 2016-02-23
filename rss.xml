@@ -4,8 +4,15 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 21:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 14:18:25 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Georgie]]></title>
+            <description><![CDATA[<article><h1>Georgie</h1><p>Here's some pictures of my dog. Because why not.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8bc61bc55b1e6ee2f1e9506b70a2a104b15d5d5.gif"></article>]]></description>
+            <link>http://www.averymiller.org/georgie/index.html</link>
+            <guid isPermaLink="false">4e2fe963-84cc-4560-b636-7b76204480d0</guid>
+            <pubDate>Tue, 23 Feb 2016 14:17:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some JonTron Memes I Made]]></title>
             <description><![CDATA[<article><h1>Some JonTron Memes I Made</h1><p>I made these two 'memes' (I guess you could call it that) involving JonTron. The final video will be finished soon, but for now you can enjoy this real painting that's real and an incredibly inspirational quote in their full resolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a62cc189eb6aafc4841e854ec5ed9b6ffb43853.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/just-a-quick-little-reminder/index.html</link>
             <guid isPermaLink="false">f467c074-502d-4279-9950-32ce3c4cb0e0</guid>
             <pubDate>Mon, 01 Feb 2016 21:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spore - Game Glitch]]></title>
-            <description><![CDATA[<article><h1>Spore - Game Glitch</h1><p>Today, I take a look at some glitches in Spore. http://www.AveryMiller.org Copyright Avery Miller Subtitles are available! Disclaimer: Fair use lets me put copyrighted material in my content without explicit permission from the copyright owner. http://en.wikipedia.org/wiki/Fair_use. Credits: Written, Produced, Directed, Animated, and edited by Avery Miller Music: Blue Groove Deluxe by BlueFoxMusic Special thanks to BlueFoxMusic for making epic music!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb6f94213b8a52b7d028a7958c883ea1e5b1861.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=3f1VIuBjN5Q</link>
-            <guid isPermaLink="false">083ac581-ed56-4261-b51a-c9d9b2227573</guid>
-            <pubDate>Mon, 01 Feb 2016 20:59:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
