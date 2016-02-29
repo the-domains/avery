@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 20:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 22:55:01 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Georgie]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Fri, 12 Feb 2016 20:53:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Super Mario Bros. - Game Glitch]]></title>
+            <description><![CDATA[<article><h1>Super Mario Bros. - Game Glitch</h1><p>HUGE thanks to The Living Tombstone for letting me use his epic song, Squid Melody! Check it out at https://www.youtube.com/watch?v=Rmea5ET_n9g! Today, I take a look at some glitches in Super Mario Bros. Let me just say that I don't advocate piracy. At all. Just a joke, sorry about that.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sr7jUNUnNbs&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">dee955e3-d3fa-4d2b-9647-0bf7dc37e1ad</guid>
+            <pubDate>Mon, 29 Feb 2016 22:53:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e548c7e7-a21e-4d9a-8e44-041fc81f4ab9.jpg">]]></description>
             <link>http://www.averymiller.org/ddcb5356-121e-4bce-b26d-b4e4e5496b3f/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://www.averymiller.org/peep-and-the-big-wide-world/index.html</link>
             <guid isPermaLink="false">49a4b276-3a5f-4a05-aa08-832b0d68a67b</guid>
             <pubDate>Sat, 13 Feb 2016 01:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Spinning Game Glitch Logo]]></title>
-            <description><![CDATA[<article><h1>The Spinning Game Glitch Logo</h1><p>I'm experimenting around with some 3D graphics for the next Game Glitch episode, and here's a draft render. Pretty cool looking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef87f8cf4c2bc8210f8e05ecf13bc93e70678f61.gif"></article>]]></description>
-            <link>http://www.averymiller.org/the-spinning-game-glitch-logo/index.html</link>
-            <guid isPermaLink="false">c7e25eff-8f74-412a-8f3d-e8628387638a</guid>
-            <pubDate>Thu, 04 Feb 2016 23:49:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
