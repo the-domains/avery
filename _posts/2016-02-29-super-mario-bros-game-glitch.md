@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Avery Miller
-    url: 'https://www.youtube.com/user/Averymrant'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - glitch
   - duration
@@ -21,7 +16,13 @@ keywords:
   - playlist
   - chicken
 description: "HUGE thanks to The Living Tombstone for letting me use his epic song, Squid Melody! Check it out at https://www.youtube.com/watch?v=Rmea5ET_n9g! Today, I take a look at some glitches in Super Mario Bros. Let me just say that I don't advocate piracy. At all. Just a joke, sorry about that."
-inLanguage: en
+datePublished: '2016-02-29T22:54:04.245Z'
+dateModified: '2016-02-29T22:54:03.945Z'
+author:
+  - name: Avery Miller
+    url: 'https://www.youtube.com/user/Averymrant'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=sr7jUNUnNbs&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=sr7jUNUnNbs&feature=youtu.be'
 title: Super Mario Bros. - Game Glitch
-datePublished: '2016-02-29T22:53:29.223Z'
-dateModified: '2016-02-29T22:53:08.351Z'
 sourcePath: _posts/2016-02-29-super-mario-bros-game-glitch.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: super-mario-bros-game-glitch/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
