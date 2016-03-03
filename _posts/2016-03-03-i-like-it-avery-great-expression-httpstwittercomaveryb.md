@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://twitter.com/_rich_moore/status/705213148668813312'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - hopps
   - love-a-lot
 description: 'I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...'
-datePublished: '2016-03-03T12:29:09.795Z'
-dateModified: '2016-03-03T12:29:09.547Z'
+datePublished: '2016-03-03T12:31:52.833Z'
+dateModified: '2016-03-03T12:31:41.403Z'
 author:
   - name: _rich_moore
     url: 'http://twitter.com/_rich_moore'
@@ -42,7 +41,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: ''
+title: 'I Gotta Go See the Movie now!'
 sourcePath: _posts/2016-03-03-i-like-it-avery-great-expression-httpstwittercomaveryb.md
 published: true
 authors: []
@@ -51,9 +50,10 @@ publisher:
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: i-gotta-go-see-the-movie-now/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
 I gotta see the movie now! But ya, I'm happy with how it turned out!
-![I like it Avery Great expression&excl; https&colon;&sol;&sol;twitter&period;com&sol;averybmiller&sol;status&sol;705205681687756800 &period;&period;&period;](https://pbs.twimg.com/media/Cclk1JfW8AAzl9W.jpg:large)
+![I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6ec7c184d4313cd7644189e95f5ed6866a3b7b6.jpg)
