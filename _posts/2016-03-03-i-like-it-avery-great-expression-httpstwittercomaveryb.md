@@ -16,8 +16,8 @@ keywords:
   - hopps
   - love-a-lot
 description: 'I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...'
-datePublished: '2016-03-03T12:31:52.833Z'
-dateModified: '2016-03-03T12:31:41.403Z'
+datePublished: '2016-03-03T12:35:06.651Z'
+dateModified: '2016-03-03T12:35:06.467Z'
 author:
   - name: _rich_moore
     url: 'http://twitter.com/_rich_moore'
