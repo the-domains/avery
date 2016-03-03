@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/_rich_moore/status/705213148668813312'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - twitter
   - location
@@ -17,8 +17,8 @@ keywords:
   - hopps
   - love-a-lot
 description: 'I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...'
-datePublished: '2016-03-03T02:37:59.479Z'
-dateModified: '2016-03-03T02:37:38.881Z'
+datePublished: '2016-03-03T12:27:58.318Z'
+dateModified: '2016-03-03T12:27:53.325Z'
 author:
   - name: _rich_moore
     url: 'http://twitter.com/_rich_moore'
@@ -43,14 +43,14 @@ app_links:
     namespace: google
     type: android
 title: ''
+sourcePath: _posts/2016-03-03-i-like-it-avery-great-expression-httpstwittercomaveryb.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-03-03-i-like-it-avery-great-expression-httpstwittercomaveryb.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
