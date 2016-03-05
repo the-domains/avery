@@ -16,8 +16,8 @@ keywords:
   - hopps
   - love-a-lot
 description: 'I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...'
-datePublished: '2016-03-04T23:41:59.146Z'
-dateModified: '2016-03-04T23:41:36.204Z'
+datePublished: '2016-03-05T00:13:05.802Z'
+dateModified: '2016-03-05T00:12:58.790Z'
 author:
   - name: _rich_moore
     url: 'http://twitter.com/_rich_moore'
@@ -55,11 +55,10 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-I gotta see the movie now! But ya, I'm happy with how it turned out!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1345ab0bd4afcf19e662ddacdb2a7dee3c9cef9.gif)
+
+I gotta go see the movie now, after the director retweeted it! But really, I'm happy with how the drawing turned out!
 ![I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6ec7c184d4313cd7644189e95f5ed6866a3b7b6.jpg)
 
 Here's a version I attempted to color:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f87a8373-cff9-4ffe-8278-1e0d1cc18c66.png)
-
-And here's a version where I tried to add some animated eyes to it (I had a bit of trouble with encoding the GIF. Sorry if it looks a bit weird!):
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18e4f20-1743-441e-b93b-ef5f1ede516d.gif)
