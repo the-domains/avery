@@ -16,8 +16,8 @@ keywords:
   - hopps
   - love-a-lot
 description: 'I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...'
-datePublished: '2016-03-05T00:13:05.802Z'
-dateModified: '2016-03-05T00:12:58.790Z'
+datePublished: '2016-03-05T00:15:30.784Z'
+dateModified: '2016-03-05T00:15:09.039Z'
 author:
   - name: _rich_moore
     url: 'http://twitter.com/_rich_moore'
@@ -57,7 +57,7 @@ _context: 'http://schema.org'
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1345ab0bd4afcf19e662ddacdb2a7dee3c9cef9.gif)
 
-I gotta go see the movie now, after the director retweeted it! But really, I'm happy with how the drawing turned out!
+I gotta go see the movie now, after the director retweeted my drawing! But really, I'm happy with how it turned out!
 ![I like it Avery Great expression! https://twitter.com/averybmiller/status/705205681687756800 ...](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6ec7c184d4313cd7644189e95f5ed6866a3b7b6.jpg)
 
 Here's a version I attempted to color:
