@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I thought I was done drawing stuff from Zootopia (Rich Moore already retweeted the last drawing I did, so\_insert George Costanza GIF here), but after seeing this D23 video, I had to give it a shot!"
-datePublished: '2016-03-10T23:33:02.946Z'
-dateModified: '2016-03-10T23:33:02.517Z'
+datePublished: '2016-03-10T23:43:43.474Z'
+dateModified: '2016-03-10T23:43:43.254Z'
 title: A Judy Hopps Animation
 author: []
 sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
@@ -22,7 +22,7 @@ url: a-judy-hopps-animation/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94a4386a9a6373b48a351cd0d67f85bc915e4a86.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee412cb2-0c74-49de-a9ae-f4a5ece8d39d.gif)
 
 I thought I was done drawing stuff from Zootopia (Rich Moore already retweeted the last drawing I did, so [insert George Costanza GIF here][0]), but after seeing [this D23 video][1], I had to give it a shot!
 
