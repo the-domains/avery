@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "One drawing quickly evolved into an animation with quite a few frames. It's the first pen-and-paper animate I've ever done, and I got to say, I think paper is a lot easier to animate with than my typical Wacom tablet and Animate CC. (I think the most difficult part animating with an Intuos is that you need some really good hand-eye-coordination, because you're drawing on the tablet, and you're looking at a screen, and I have nada hand-eye-coordination.) Paper just feels more natural."
-datePublished: '2016-03-10T22:23:33.486Z'
-dateModified: '2016-03-10T22:23:26.409Z'
+description: "I thought I was done drawing stuff from Zootopia (Rich Moore already retweeted the last drawing I did, so\_insert George Costanza GIF here), but after seeing this D23 video, I had to give it a shot!"
+datePublished: '2016-03-10T22:32:53.307Z'
+dateModified: '2016-03-10T22:32:38.682Z'
 title: A Judy Hopps Animation
 author: []
+sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
-published: true
 url: a-judy-hopps-animation/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 > [Thought I was done drawing Zootopia, but I saw the video @ByronPHoward did, and, I mean, I had to! 5 days later... pic.twitter.com/OcrjmsfphV][0]
 
 I thought I was done drawing stuff from Zootopia (Rich Moore already retweeted the last drawing I did, so [insert George Costanza GIF here][1]), but after seeing [this D23 video][2], I had to give it a shot!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79d9710fad8db12590fef982fa308a79933e8b4.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c9279-aeed-4954-a60d-707b0119d929.gif)
 
 One drawing quickly evolved into an animation with quite a few frames. It's the first pen-and-paper animate I've ever done, and I got to say, I think paper is a lot easier to animate with than my typical Wacom tablet and Animate CC. (I think the most difficult part animating with an Intuos is that you need some really good hand-eye-coordination, because you're drawing on the tablet, and you're looking at a screen, and I have nada hand-eye-coordination.) Paper just feels more natural.
 
