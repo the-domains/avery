@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-14T00:38:18.878Z'
-dateModified: '2016-02-14T00:38:09.131Z'
+description: Vote Vermin 2016.
+datePublished: '2016-03-10T14:49:37.182Z'
+dateModified: '2016-03-10T14:49:18.667Z'
 title: 'Vermin Supreme for PREZ!'
 author: []
 authors: []
