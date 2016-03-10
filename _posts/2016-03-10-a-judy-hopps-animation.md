@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "One drawing quickly evolved into an animation with quite a few frames. It's the first pen-and-paper animate I've ever done, and I got to say, I think paper is a lot easier to animate with than my typical Wacom tablet and Animate CC. (I think the most difficult part animating with an Intuos is that you need some really good hand-eye-coordination, because you're drawing on the tablet, and you're looking at a screen, and I have nada hand-eye-coordination.) Paper just feels more natural."
-datePublished: '2016-03-10T22:27:32.599Z'
-dateModified: '2016-03-10T22:27:28.141Z'
+datePublished: '2016-03-10T22:23:33.486Z'
+dateModified: '2016-03-10T22:23:26.409Z'
 title: A Judy Hopps Animation
 author: []
-sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
+published: true
 url: a-judy-hopps-animation/index.html
 _type: Article
 
