@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "I thought I was done drawing stuff from Zootopia (Rich Moore already retweeted the last drawing I did, so\_insert George Costanza GIF here), but after seeing this D23 video, I had to give it a shot!"
-datePublished: '2016-03-10T22:32:53.307Z'
-dateModified: '2016-03-10T22:32:38.682Z'
+description: "One drawing quickly evolved into an animation with quite a few frames. It's the first pen-and-paper animate I've ever done, and I got to say, I think paper is a lot easier to animate with than my typical Wacom tablet and Animate CC. (I think the most difficult part animating with an Intuos is that you need some really good hand-eye-coordination, because you're drawing on the tablet, and you're looking at a screen, and I have nada hand-eye-coordination.) Paper just feels more natural."
+datePublished: '2016-03-10T22:32:35.865Z'
+dateModified: '2016-03-10T22:32:00.950Z'
 title: A Judy Hopps Animation
 author: []
 sourcePath: _posts/2016-03-10-a-judy-hopps-animation.md
