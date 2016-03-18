@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "This extension was made by Avery Miller! Obviously the\_"
-datePublished: '2016-03-18T13:33:42.679Z'
-dateModified: '2016-03-18T13:32:11.719Z'
+description: "This extension was made by Avery Miller! Obviously the sound effect was downloaded straight from one of Lt.'s videos, and I made the GIF out of footage from her announcement video here."
+datePublished: '2016-03-18T13:33:58.074Z'
+dateModified: '2016-03-18T13:33:46.930Z'
 title: About The LtCorbis Extention
 author: []
+sourcePath: _posts/2016-03-18-about-the-ltcorbis-extention.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-about-the-ltcorbis-extention.md
-published: true
 url: about-the-ltcorbis-extention/index.html
 _type: Blurb
 
