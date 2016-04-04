@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-04T22:53:24.202Z'
-dateModified: '2016-04-04T22:53:01.522Z'
+datePublished: '2016-04-04T22:56:49.881Z'
+dateModified: '2016-04-04T22:53:32.919Z'
 title: Drawings of The Lion King
 author: []
 sourcePath: _posts/2016-04-04-drawings-of-the-lion-king.md
