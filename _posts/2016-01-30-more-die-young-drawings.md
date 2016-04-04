@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Here's a drawing I just finished making!"
-datePublished: '2016-02-07T21:23:38.174Z'
-dateModified: '2016-02-07T21:23:36.123Z'
+description: "Below is a drawing I just finished making! (Update: It's Vivziepop approved, by the way!) I thought I'd practice my animation skills a few weeks ago by attempting to replicate a few frames of Vivienne Medrano's Die Young Animation. (Which just hit 7 Million views, by the way!)"
+datePublished: '2016-04-04T21:41:29.116Z'
+dateModified: '2016-03-29T13:35:02.533Z'
 title: More Die Young Drawings
 author: []
 sourcePath: _posts/2016-01-30-more-die-young-drawings.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: more-die-young-drawings/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf4023b67cf89efe58fd54abb9e8892291d3666.jpg)
