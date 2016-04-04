@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-04T22:52:58.230Z'
-dateModified: '2016-04-04T22:52:09.186Z'
+datePublished: '2016-04-04T22:53:24.202Z'
+dateModified: '2016-04-04T22:53:01.522Z'
 title: Drawings of The Lion King
 author: []
+sourcePath: _posts/2016-04-04-drawings-of-the-lion-king.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-drawings-of-the-lion-king.md
-published: true
 url: drawings-of-the-lion-king/index.html
 _type: Article
 
