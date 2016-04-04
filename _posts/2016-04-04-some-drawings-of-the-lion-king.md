@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "I've been sick recently- I came down with a really bad cold. Not good. But, I do have a lot of spare time on my hands, so I started watching some videos by Aaron Blaise, and then I wanted to draw some of the characters from The Lion King (which I haven't seen in for ever-- sorta random, but hey, that's life \uD83D\uDC4C.)"
-datePublished: '2016-04-04T22:58:46.686Z'
-dateModified: '2016-04-04T22:56:22.844Z'
+datePublished: '2016-04-04T23:01:14.932Z'
+dateModified: '2016-04-04T23:01:03.327Z'
 title: Some Drawings of The Lion King
 author: []
 sourcePath: _posts/2016-04-04-some-drawings-of-the-lion-king.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: some-drawings-of-the-lion-king/index.html
 _type: Blurb
 
 ---
