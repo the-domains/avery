@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - presets
   - sczbdimpoe
@@ -16,8 +16,8 @@ keywords:
   - tweet
   - zoophobia
 description: "I thought I'd spend a few minutes making some custom AE lens flare presets. Watch out JJ ABRAMS and @videocopilot! pic.twitter.com/sczBDiMPOE"
-datePublished: '2016-02-12T20:53:36.339Z'
-dateModified: '2016-02-12T20:53:33.370Z'
+datePublished: '2016-04-04T23:16:03.851Z'
+dateModified: '2016-04-04T23:12:27.186Z'
 author:
   - name: averybmiller
     url: 'http://twitter.com/averybmiller'
