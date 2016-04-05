@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I 'm on a mission to making one drawing everyday for one year. (Or \_more! Start out small I guess though)"
-datePublished: '2016-04-05T19:10:16.901Z'
-dateModified: '2016-04-05T19:08:11.618Z'
+datePublished: '2016-04-05T19:13:18.306Z'
+dateModified: '2016-04-05T19:10:25.641Z'
 title: ADrawingADay
 author: []
 sourcePath: _posts/2016-04-05-adrawingaday.md
