@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 23:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 19:08:05 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Some Drawings of The Lion King]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.averymiller.org/some-drawings-of-the-lion-king/index.html</link>
             <guid isPermaLink="false">001ab597-64e4-4133-8db0-e2dd9779bd06</guid>
             <pubDate>Mon, 04 Apr 2016 23:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ADrawingADay]]></title>
+            <description><![CDATA[<article><h1>ADrawingADay</h1><p>I 'm on a mission to making one drawing everyday for one year. (Or  more! Start out small I guess though)</p></article>]]></description>
+            <link>http://www.averymiller.org/adrawingaday/index.html</link>
+            <guid isPermaLink="false">4c592a9a-a25e-4214-9baa-4a0f012db34a</guid>
+            <pubDate>Tue, 05 Apr 2016 19:08:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
