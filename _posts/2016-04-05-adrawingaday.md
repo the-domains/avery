@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "I 'm on a mission to making one drawing everyday for one year. (Or \_more! Start out small I guess though)"
-datePublished: '2016-04-05T19:13:18.306Z'
-dateModified: '2016-04-05T19:10:25.641Z'
+datePublished: '2016-04-05T19:16:30.108Z'
+dateModified: '2016-04-05T19:16:16.626Z'
 title: ADrawingADay
 author: []
 sourcePath: _posts/2016-04-05-adrawingaday.md
@@ -26,4 +26,4 @@ I 'm on a mission to making one drawing everyday for one year. (Or  more! Start 
 
 I'll post all these drawings to [tumblr][0]. Unless they're really bad. 
 
-[0]: http://avery.tumblr.com/
+[0]: http://tumblr.averymiller.org/
