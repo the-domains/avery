@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T19:08:03.119Z'
-dateModified: '2016-04-05T19:07:44.192Z'
+description: "I 'm on a mission to making one drawing everyday for one year. (Or \_more! Start out small I guess though)"
+datePublished: '2016-04-05T19:10:16.901Z'
+dateModified: '2016-04-05T19:08:11.618Z'
 title: ADrawingADay
+author: []
+sourcePath: _posts/2016-04-05-adrawingaday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-05-adrawingaday.md
-published: true
 url: adrawingaday/index.html
 _type: Article
 
