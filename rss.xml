@@ -4,8 +4,15 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 19:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 19:38:18 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Even Newer Profile picture!]]></title>
+            <description><![CDATA[<article><h1>Even Newer Profile picture!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a788e5df2c25976de017953735a8975cefe5375.png"></article>]]></description>
+            <link>http://www.averymiller.org/even-newer-profile-picture/index.html</link>
+            <guid isPermaLink="false">5406220e-dff4-4225-bc30-3009dcadb2ac</guid>
+            <pubDate>Fri, 08 Apr 2016 19:38:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ADrawingADay]]></title>
             <description><![CDATA[<article><h1>ADrawingADay</h1><p>I 'm on a mission to making one drawing everyday for one year. (Or  more! Start out small I guess though)</p></article>]]></description>
@@ -47,13 +54,6 @@
             <link>http://www.averymiller.org/some-jontron-memes-i-made/index.html</link>
             <guid isPermaLink="false">d340849c-de11-4b27-a9ba-54735e9e0c2c</guid>
             <pubDate>Sat, 20 Feb 2016 21:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even Newer Profile picture!]]></title>
-            <description><![CDATA[<article><h1>Even Newer Profile picture!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a788e5df2c25976de017953735a8975cefe5375.png"></article>]]></description>
-            <link>http://www.averymiller.org/even-newer-profile-picture/index.html</link>
-            <guid isPermaLink="false">5406220e-dff4-4225-bc30-3009dcadb2ac</guid>
-            <pubDate>Fri, 08 Apr 2016 19:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
