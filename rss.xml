@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 19:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 19:37:09 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ADrawingADay]]></title>
@@ -47,6 +47,13 @@
             <link>http://www.averymiller.org/some-jontron-memes-i-made/index.html</link>
             <guid isPermaLink="false">d340849c-de11-4b27-a9ba-54735e9e0c2c</guid>
             <pubDate>Sat, 20 Feb 2016 21:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even Newer Profile picture!]]></title>
+            <description><![CDATA[<article><h1>Even Newer Profile picture!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe0be57-2d77-420a-b9ac-0337b16deb2d.png"></article>]]></description>
+            <link>http://www.averymiller.org/even-newer-profile-picture/index.html</link>
+            <guid isPermaLink="false">5406220e-dff4-4225-bc30-3009dcadb2ac</guid>
+            <pubDate>Fri, 08 Apr 2016 19:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
