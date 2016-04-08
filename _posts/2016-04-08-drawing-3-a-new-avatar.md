@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Drawing #3: A New Avatar'
-datePublished: '2016-04-08T19:33:35.114Z'
-dateModified: '2016-04-08T19:32:42.448Z'
+datePublished: '2016-04-08T19:33:52.635Z'
+dateModified: '2016-04-08T19:33:42.200Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-08-drawing-3-a-new-avatar.md
