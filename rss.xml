@@ -4,7 +4,7 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 21:02:41 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nick Wilde Drawing]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Sat, 20 Feb 2016 21:03:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[John The Eagel]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9e0c4b-d1ef-429a-b95e-21b705041fe1.png">]]></description>
+            <link>http://www.averymiller.org/john-the-eagel/index.html</link>
+            <guid isPermaLink="false">f6589375-2655-47c7-bc96-0051dabf8296</guid>
+            <pubDate>Mon, 18 Apr 2016 21:02:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
             <description><![CDATA[I thought I'd spend a few minutes making some custom AE lens flare presets. Watch out JJ ABRAMS and @videocopilot! pic.twitter.com/sczBDiMPOE]]></description>
             <link>http://www.averymiller.org/i-made-some-custom-lens-flares/index.html</link>
             <guid isPermaLink="false">9d5a96a2-78cd-45c0-a2ee-f2ca2d6b4f23</guid>
             <pubDate>Mon, 04 Apr 2016 23:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where's The Fair Use? - Nostalgia Critic]]></title>
-            <description><![CDATA[<article><h1>Where's The Fair Use? - Nostalgia Critic</h1><p>This is a great video by the Nostalgia Critic! GO FAIR USE!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347bb01535ebf8fcdd6203069a2c45455fcb2a9.jpg"></article>]]></description>
-            <link>http://www.averymiller.org/this-is-a-great-video-by-the-nostalgia-critic/index.html</link>
-            <guid isPermaLink="false">78dbd907-6278-45de-8414-5f5054478bc5</guid>
-            <pubDate>Sat, 05 Mar 2016 00:25:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
