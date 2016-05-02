@@ -4,8 +4,14 @@
         <description><![CDATA[Avery Miller]]></description>
         <link>http://www.averymiller.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 21:31:24 GMT</lastBuildDate>
         <atom:link href="http://www.averymiller.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/averybmiller/statuses/727248927754346496</link>
+            <guid isPermaLink="false">aa8f2a37-367d-4ae9-8bbd-b0b1d6564778</guid>
+            <pubDate>Mon, 02 May 2016 21:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nick Wilde Drawing]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed73cd5-6c52-44ef-a45f-fdd5cb86c1e9.png">]]></description>
@@ -68,13 +74,6 @@
             <link>http://www.averymiller.org/john-the-eagel/index.html</link>
             <guid isPermaLink="false">f6589375-2655-47c7-bc96-0051dabf8296</guid>
             <pubDate>Mon, 18 Apr 2016 21:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Made Some Custom Lens Flares!]]></title>
-            <description><![CDATA[I thought I'd spend a few minutes making some custom AE lens flare presets. Watch out JJ ABRAMS and @videocopilot! pic.twitter.com/sczBDiMPOE]]></description>
-            <link>http://www.averymiller.org/i-made-some-custom-lens-flares/index.html</link>
-            <guid isPermaLink="false">9d5a96a2-78cd-45c0-a2ee-f2ca2d6b4f23</guid>
-            <pubDate>Mon, 04 Apr 2016 23:16:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
