@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I originally posted this on Tumblr:'
-datePublished: '2016-05-04T23:32:30.873Z'
-dateModified: '2016-05-04T23:32:25.672Z'
+datePublished: '2016-05-04T23:35:42.624Z'
+dateModified: '2016-05-04T23:35:38.433Z'
 title: An Alligator Painted in Krita
 author:
   - name: Drawn by Avery Miller
     url: ''
+sourcePath: _posts/2016-05-04-an-alligator-painted-in-krita.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-04-an-alligator-painted-in-krita.md
 url: an-alligator-painted-in-krita/index.html
 _type: Article
 
@@ -33,5 +33,5 @@ It's got a bunch of brushes, and even has a brush stabilizer, which Photoshop do
 It took me about 2 hours to do this doodle of an Alligator (which I've drawn a lot of recently), and [here is the image][2]I used as a reference.
 
 [0]: http://tumblr.averymiller.org/private/143864298638/tumblr_o6oe6bEbGV1u2fq08
-[1]: http://t.umblr.com/redirect?z=https%3A%2F%2Fkrita.org%2F&t=ODg5NjZmZjQ3ZDY5ZjFkZTMyMDg2YjkwNzAyODMyNDlhMTVhMGMyYyxlaWFzQWxFaw%3D%3D
+[1]: https://krita.org/
 [2]: http://t.umblr.com/redirect?z=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAmerican_Alligator_eating_crab.JPG&t=ZmE5ZTkzNDg3ZDIxNTdmMmYyZTg3YjBkYzhkZGJjNWYxNGM3NmYwMixlaWFzQWxFaw%3D%3D
