@@ -16,8 +16,8 @@ keywords:
   - disney
   - playlist
 description: 'You can download the full-res version of the image below!'
-datePublished: '2016-05-24T13:21:21.760Z'
-dateModified: '2016-05-24T13:20:16.721Z'
+datePublished: '2016-05-24T13:22:22.568Z'
+dateModified: '2016-05-24T13:21:33.407Z'
 author:
   - name: Avery Miller
     url: 'https://www.youtube.com/user/Averymrant'
@@ -61,6 +61,7 @@ app_links:
     namespace: google
     type: ios
 title: Drawing Nick Wilde from Zootopia - Timelapse
+sourcePath: _posts/2016-05-24-drawing-nick-wilde-from-zootopia-timelapse.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: true
-sourcePath: _posts/2016-05-24-drawing-nick-wilde-from-zootopia-timelapse.md
 _type: VideoObject
 _context: 'http://schema.org'
 
