@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=9iosggl8ODE'
 inLanguage: en
 keywords:
   - zootopia
@@ -16,8 +15,8 @@ keywords:
   - disney
   - playlist
 description: 'You can download the full-res version of the image below!'
-datePublished: '2016-05-24T13:22:22.568Z'
-dateModified: '2016-05-24T13:21:33.407Z'
+datePublished: '2016-05-24T13:36:31.907Z'
+dateModified: '2016-05-24T13:26:36.451Z'
 author:
   - name: Avery Miller
     url: 'https://www.youtube.com/user/Averymrant'
@@ -69,6 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: true
+url: drawing-nick-wilde-from-zootopia-timelapse/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
