@@ -1,20 +1,4 @@
-name: Avery Miller
-favicon: null
-layout_spectrum: 0.36136
 typography_spectrum: 0.2984
-title: Avery Miller
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36136
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Avery Miller
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Avery Miller
+description: Lolz
 purpose: []
