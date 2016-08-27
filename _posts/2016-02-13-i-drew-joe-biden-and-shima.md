@@ -1,33 +1,36 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2016-03-05T00:24:51.403Z'
-dateModified: '2016-03-05T00:24:46.922Z'
-title: I Drew Joe Biden and Shima (And Other Stuff)
-author: []
+datePublished: '2016-08-26T17:09:28.522Z'
 sourcePath: _posts/2016-02-13-i-drew-joe-biden-and-shima.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: Avery Miller
+    url: ''
+dateModified: '2016-08-26T17:09:28.193Z'
+title: Shima
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: 'I also photoshopped this:'
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: i-drew-joe-biden-and-shima/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a11e51b287f6e47f96e66c80169a378a4a862b25.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/206bc80949f00e5b2efda49d60c5a33febde171d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee67a35bc1e5bfa58ffcf772e8ef92667457d70.jpg)
+
+I also photoshopped this:
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8091828fcb12e328ab39249ae6014fcafbe8a0c6.png)
+
 Here's some drawings I did today! We got Uncle Joe (AKA Joe Biden), Zech from Zoophobia, the Zech sketch, and Shima from the YouTube channel SPD (not in that order).
 
 Because why not, right!?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b23cca4993bd885ab3ade66148491490ad76df6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/206bc80949f00e5b2efda49d60c5a33febde171d.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c246298a308eea2cd99ead4ce18ab80bc5654944.jpg)
-
-I also photoshopped this:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50b8350b-96d3-4338-9886-5fae2fc5c21b.png)
