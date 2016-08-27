@@ -1,4 +1,3 @@
-layout_spectrum: 0.4715808767359704
 typography_spectrum: 0.5529439195524901
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4715808767359704
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Twitter
+    url: 'http://www.twitter.com/averybmiller'
+    type: external
 favicon: null
 title: Avery Miller
 description: Lolz
