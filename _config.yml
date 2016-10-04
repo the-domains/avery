@@ -1,34 +1,43 @@
-typography_spectrum: 0.5529439195524901
+typography_spectrum: 0.48371126339770854
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.5070330507587641
-  lightness: 0.7054671072401106
-  saturation: 0.5759863061830401
-  rhythmicContrast: 0.9964763906318694
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.23821254796348512
+  lightness: 0.8810588754713535
+  saturation: 0.5365615733899176
+  rhythmicContrast: 0.4202436942141503
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.4715808767359704
+layout_spectrum: 0.41518289456143975
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Avery Miller
+  email: avery@averymiller.org
+  url: 'http://www.youtube.com/averymillerofficial'
+logo: null
 name: Avery Miller
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Twitter
-    url: 'http://www.twitter.com/averybmiller'
-    type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8516275-456a-415f-8065-f86d4e86d3db.jpg
 title: Avery Miller
-description: Lolz
-purpose: []
+description: 'Lolz, I make videos'
+purpose:
+  - type: external
+    url: 'http://www.youtube.com/averymillerofficial'
+    label: Subscribe
+  - type: external
+    url: 'http://www.twitter.com/averybmiller'
+    label: Follow Me
